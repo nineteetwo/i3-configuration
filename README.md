@@ -1,6 +1,8 @@
 ## i3 WM Configuration
 
-A simple and minimal i3 window manager configuration.
+A simple and minimal i3 window manager configuration. <br>
+<img src="Screenshot from 2026-01-19 02-14-07.png">
+<img src="Screenshot from 2026-01-19 10-35-21.png">
 
 ### Requirements
 
@@ -43,5 +45,5 @@ Make sure to back up your existing configuration files before copying.
 - **Super + Shift + R:** Restart i3
 - **Super + Shift + Arrow Keys:** Move the focused window
 
-I hope you enjoy using this configuration.❤️
+❤️ I hope you enjoy using this configuration. ❤️
 
