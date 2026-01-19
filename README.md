@@ -36,7 +36,8 @@ Copy all configuration files (except the screenshots directory) into your ~/.con
 cp -r * ~/.config
 ```
 Make sure to back up your existing configuration files before copying.
-
+Make sure to adjust your display settings in the i3 config using xrandr.
+This config uses PulseAudio by default. Modify it if you are using PipeWire.
 ### Usage
 
 - **Mod key:** Super (Windows key)
