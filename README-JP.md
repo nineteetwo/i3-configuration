@@ -9,12 +9,15 @@
   </b> 
 </div><br>
 
-シンプルでミニマルな i3 ウィンドウマネージャーの設定です。<br>
-<a href="https://github.com/nineteetwo/MagiOS-concepts-i3">以前のライシング（ricing）</a>をベースにしています。<br>
+
 <div align="center">
   <img src="Screenshot from 2026-01-19 02-14-07.png" width="45%">
   <img src="Screenshot from 2026-01-19 10-35-21.png" width="45%">
 </div>
+<br>
+
+シンプルでミニマルな i3 ウィンドウマネージャーの設定です。<br>
+<a href="https://github.com/nineteetwo/MagiOS-concepts-i3">以前のライシング（ricing）</a>をベースにしています。<br>
 
 ### 要件
 
