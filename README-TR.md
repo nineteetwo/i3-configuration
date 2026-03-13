@@ -8,12 +8,12 @@
     <a href="README-DE.md">Deutsch</a>
   </b> 
 </div><br>
-Basit ve minimal bir i3 pencere yöneticisi yapılandırması. <br>
-<a href="https://github.com/nineteetwo/MagiOS-concepts-i3">Önceki özelleştirme (ricing) çalışmamı</a> temel almaktadır. <br>
+
 <div align="center">
   <img src="Screenshot from 2026-01-19 02-14-07.png" width="45%">
   <img src="Screenshot from 2026-01-19 10-35-21.png" width="45%">
-</div>
+</div> <br>
+Basit ve minimal bir i3 pencere yöneticisi yapılandırması. <br><a href="https://github.com/nineteetwo/MagiOS-concepts-i3">Önceki özelleştirme (ricing) çalışmamı</a> temel almaktadır. <br>
 
 ### Gereksinimler
 
