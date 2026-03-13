@@ -1,5 +1,13 @@
 ## i3 WM Yapılandırması
 
+<div align="center">
+  <b>
+    <a href="README.md">English</a> |
+    <a href="README-TR.md">Türkçe</a> |
+    <a href="README-JP.md">日本語</a> |
+    <a href="README-DE.md">Deutsch</a>
+  </b> 
+</div><br>
 Basit ve minimal bir i3 pencere yöneticisi yapılandırması. <br>
 <a href="https://github.com/nineteetwo/MagiOS-concepts-i3">Önceki özelleştirme (ricing) çalışmamı</a> temel almaktadır. <br>
 <div align="center">
