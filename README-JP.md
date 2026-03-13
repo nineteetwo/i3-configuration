@@ -1,5 +1,14 @@
 ## i3 WM 設定
 
+<div align="center">
+  <b>
+    <a href="README.md">English</a> |
+    <a href="README-TR.md">Türkçe</a> |
+    <a href="README-JP.md">日本語</a> |
+    <a href="README-DE.md">Deutsch</a>
+  </b> 
+</div><br>
+
 シンプルでミニマルな i3 ウィンドウマネージャーの設定です。<br>
 <a href="https://github.com/nineteetwo/MagiOS-concepts-i3">以前のライシング（ricing）</a>をベースにしています。<br>
 <div align="center">
