@@ -1,5 +1,12 @@
 ## i3 WM Configuration
-
+<div align="center">
+  <b>
+    <a href="README.md">English</a> |
+    <a href="README-TR.md">Türkçe</a> |
+    <a href="README-JP.md">日本語</a> |
+    <a href="README-DE.md">Deutsch</a>
+  </b>
+</div>
 A simple and minimal i3 window manager configuration. <br>
 Based on <a href="https://github.com/nineteetwo/MagiOS-concepts-i3">my previous ricing.</a> <br>
 <div align="center">
