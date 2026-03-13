@@ -7,12 +7,12 @@
     <a href="README-DE.md">Deutsch</a>
   </b> 
 </div><br>
-A simple and minimal i3 window manager configuration. <br>
-Based on <a href="https://github.com/nineteetwo/MagiOS-concepts-i3">my previous ricing.</a> <br>
 <div align="center">
   <img src="Screenshot from 2026-01-19 02-14-07.png" width="45%">
   <img src="Screenshot from 2026-01-19 10-35-21.png" width="45%">
-</div>
+</div> <br>
+A simple and minimal i3 window manager configuration. <br>
+Based on <a href="https://github.com/nineteetwo/MagiOS-concepts-i3">my previous ricing.</a> <br>
 
 ### Requirements
 
