@@ -9,12 +9,12 @@
   </b> 
 </div><br>
 
-Eine einfache und minimalistische i3 Window-Manager-Konfiguration.<br>
-<a href="https://github.com/nineteetwo/MagiOS-concepts-i3">Basierend auf meinem vorherigen Ricing.</a><br>
 <div align="center">
   <img src="Screenshot from 2026-01-19 02-14-07.png" width="45%">
   <img src="Screenshot from 2026-01-19 10-35-21.png" width="45%">
 </div>
+Eine einfache und minimalistische i3 Window-Manager-Konfiguration.<br>
+<a href="https://github.com/nineteetwo/MagiOS-concepts-i3">Basierend auf meinem vorherigen Ricing.</a><br>
 
 ### Voraussetzungen
 
